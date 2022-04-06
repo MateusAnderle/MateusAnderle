@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Dev. 👋
 
 - 🌱 Nesse momento estou estudando HTML, CSS, JavaScript, Git.
 - 🤔 Estou pesuisando mais sobre Front-End e Back-End
