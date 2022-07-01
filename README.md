@@ -1,6 +1,6 @@
 ### Olá Dev. 👋
 
-- 🌱 Nesse momento estou estudando HTML, CSS, JavaScript, Git e ReactJS.
+- 🌱 Nesse momento estou estudando JavaScript, Git e React Native.
 - 🤔 Estou pesquisando mais sobre Front-End
 - 📫 Pode me contatar diretamente no: matsanderle@gmail.com
 - 😄 Tenho facilidade de e sede para aprender coisas novas
