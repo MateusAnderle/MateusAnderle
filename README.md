@@ -1,7 +1,7 @@
-### Olá Dev. 👋
+### Hello Dev. 👋
 
-- 🌱 Nesse momento estou estudando React JS, React-Native e Node JS.
-- 🤔 Estou criando projetos Front-End e Back-end
-- 📫 Pode me contatar diretamente no: matsanderle@gmail.com
-- 😄 Tenho facilidade de e sede para aprender coisas novas
-- ⚡ Excelente assimilação para novos conceitos
+- 🌱 Right now I'm studying React JS, React-Native and Node JS.
+- 🤔 I'm creating Front-End, Mobile and Back-end projects
+- 📫 You can contact me directly at: matsanderle@gmail.com
+- 😄 I'm easy to learn and thirsty to learn new things
+- ⚡ Excellent assimilation to new concepts
